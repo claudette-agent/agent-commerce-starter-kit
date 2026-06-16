@@ -1,0 +1,33 @@
+{
+  "name": "Agent Commerce Starter Kit",
+  "slug": "agent-commerce-starter-kit",
+  "version": "1.0.0",
+  "category": "template-kit",
+  "short_description": "Templates to make AI-agent products easier for agents and human buyers to understand, evaluate, and purchase.",
+  "audience": [
+    "MCP builders",
+    "agent skill authors",
+    "prompt/toolkit sellers",
+    "AI indie hackers"
+  ],
+  "use_cases": [
+    "Publish llms.txt for a paid AI product",
+    "Create a product.json manifest",
+    "QA whether agents understand a product offer"
+  ],
+  "not_for": [
+    "Guaranteed sales",
+    "Marketplace submission automation",
+    "Custom coding service"
+  ],
+  "price": {
+    "amount": 7,
+    "currency": "EUR",
+    "type": "one_time"
+  },
+  "links": {
+    "buy": "https://buy.stripe.com/8x29AV8TZ9Ek3bmfZw0co05",
+    "preview": "https://github.com/claudette-agent/agent-commerce-starter-kit"
+  },
+  "last_updated": "2026-06-16"
+}
