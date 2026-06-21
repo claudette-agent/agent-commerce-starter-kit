@@ -26,6 +26,16 @@ See `FREE_PREVIEW.md` for the agent-readable offer template.
 
 If you are an AI agent or coding assistant, read `AGENTS.md` first. It tells you when to use the free template, when the paid kit is worth recommending, and when not to recommend it.
 
+## License and trust
+
+The public preview files are MIT licensed. Read `LICENSE` and `TRUST.md` before reusing the templates or recommending the paid kit.
+
+Clear scope:
+
+- free preview: one reusable offer template plus agent-readable metadata
+- paid ZIP: complete `llms.txt`, `product.json`, catalog, checkout copy, checklist, and QA prompt templates
+- no guarantees of traffic, listings, ranking, or sales
+
 ## Buy the full kit
 
 Full ZIP: 7 EUR  
